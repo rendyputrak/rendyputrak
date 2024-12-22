@@ -8,8 +8,14 @@
   
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://linkedin.com/in/rendyputrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rendyputrak" height="30" width="40" /></a>
-    <a href="https://instagram.com/rendyputrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rendyputrak" height="30" width="40" /></a>
-    <a href="https://discord.com/users/299487365733548033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="299487365733548033" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/rendyputrak" target="blank">
+      <img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" height="30" width="30" />
+    </a>
+    <a href="https://instagram.com/rendyputrak" target="blank">
+      <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30" />
+    </a>
+    <a href="https://discord.com/users/299487365733548033" target="blank">
+      <img align="center" src="https://img.icons8.com/color/48/000000/discord.png" alt="Discord" height="30" width="30" />
+    </a>
   </p>
 </div>
